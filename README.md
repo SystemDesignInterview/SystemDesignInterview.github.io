@@ -1,4 +1,4 @@
-[root github repo](https://github.com/SystemDesignInterview/)
+[DC group](https://discord.gg/jta5JueDzX)
 
 ## Introduction
 
