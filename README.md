@@ -1,4 +1,5 @@
-[DC group](https://discord.gg/jta5JueDzX)
+## Discord
+[Mock System Design Interview](https://discord.gg/jta5JueDzX) - Finding Partners here
 
 ## Introduction
 

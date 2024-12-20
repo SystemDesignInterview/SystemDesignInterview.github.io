@@ -1,7 +1,0 @@
-services:
-  compile:
-    image: pandoc/latex
-    volumes:
-      - ./:/app/
-    command: "pandoc README.md -o output.pdf"
-    working_dir: /app/
