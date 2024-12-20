@@ -1,5 +1,3 @@
-# System Design Interview
-
 ## Introduction
 
 During the early 2000s to mid-2010s, unconventional interview questions became a hallmark of not only tech companies like Google but also universities aiming to identify top talent. Questions such as the famous "Google Intern Movie" blender question or the "How many ping-pong balls can fit in a plane?" were not intended to test specific technical skills. Instead, they focused on evaluating problem-solving abilities, creativity, logical reasoning, and how individuals approached open-ended challenges.
