@@ -1,5 +1,5 @@
 ## Discord
-[Mock System Design Interview](https://discord.gg/jta5JueDzX) - Finding Partners here
+[Mock System Design Interview](https://discord.gg/WHjarsrCvK) - Finding Partners here
 
 ## Introduction
 
