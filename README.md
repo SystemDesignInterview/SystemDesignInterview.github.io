@@ -28,7 +28,6 @@ Other resources, such as [InfoQ](https://www.youtube.com/@infoq), are also great
 ## Youtube 
 * Search "Mock System Design Interview"
 * Search "System Design Interview"
-* [Scott Shi](https://www.youtube.com/@ScottShiCS/videos)
 * [System Design Interview](https://www.youtube.com/@SystemDesignInterview/videos)
 
 ## Github
