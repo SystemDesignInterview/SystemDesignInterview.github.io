@@ -1,3 +1,6 @@
+
+<meta http-equiv="refresh" content="0; url=https://homun.posetmage.com/SystemDesignInterview/en" />
+
 ## Discord
 [Mock System Design Interview](https://discord.gg/WHjarsrCvK) - Finding Partners here
 

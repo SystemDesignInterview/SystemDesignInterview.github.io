@@ -1,5 +1,7 @@
 # 中文資源
 
+<meta http-equiv="refresh" content="0; url=https://homun.posetmage.com/SystemDesignInterview/zh" />
+
 ## Books
 
 * System Design Interview – An insider's guide by Alex Xu 
