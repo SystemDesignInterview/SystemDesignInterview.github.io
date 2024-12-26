@@ -1,5 +1,5 @@
 
-<meta http-equiv="refresh" content="0; url=https://homun.posetmage.com/SystemDesignInterview/en" />
+<meta http-equiv="refresh" content="0; url=https://homun.posetmage.com/SystemDesignInterview/" />
 
 ## Discord
 [Mock System Design Interview](https://discord.gg/WHjarsrCvK) - Finding Partners here
