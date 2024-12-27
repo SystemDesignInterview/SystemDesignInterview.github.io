@@ -1,6 +1,6 @@
 # 中文資源
 
-<meta http-equiv="refresh" content="0; url=https://homun.posetmage.com/SystemDesignInterview/zh" />
+<meta http-equiv="refresh" content="0; url=https://homun.posetmage.com/SDI/zh" />
 
 ## Books
 
